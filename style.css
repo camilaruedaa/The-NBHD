@@ -1,0 +1,58 @@
+body{
+background-image: url(imags/fondo.jpeg)
+
+}
+
+h1{
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        background-color: beige;
+        font-size: 80px;
+        text-align: center;
+      } 
+
+.integrantes{
+    background-color: beige;
+}
+
+.discografia{
+    background-color: beige;
+}
+  
+.quepaso{
+    background-color: beige;
+}
+   
+h3{
+    font-family: "Bebas Neue", sans-serif;
+        font-style: normal;
+        font-size: 50px;
+    text-align: center;
+}
+
+p{
+        font-family: "Crimson Text", serif;
+        font-weight: 700;
+        background-color: beige;
+      }
+      
+
+.todos{
+   align-self: center;
+}
+
+.spoti{
+   height: 150px;
+   width: 150px;
+}
+
+.ig{
+    height: 150px;
+    width: 150px;
+ }
+
+ .logo{
+    height: 150px;
+    width: 150px;
+ }
